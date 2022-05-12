@@ -1,0 +1,214 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  background: black;
+
+}
+
+nav
+{
+position: fixed;
+width: 100%;
+height: 70px;
+padding: 10px 90px;
+box-sizing: border-box;
+background: black;
+}
+  nav ul {
+ list-style: none;
+ float: right;
+ margin: 0;
+ display: flex;
+ 
+ 
+}
+
+nav ul li a {
+ line-height: 80px;
+ color: white;
+ padding: 12px 30px;
+ text-transform: uppercase;
+ font-size: 15px;
+ font-weight: bold;
+ border-radius: 20px;
+}
+
+nav ul li a:hover{
+  background-color: burlywood;
+  
+  
+ }
+html {
+  background: black;
+  color: black;
+  
+}
+
+
+
+.about-section {
+  height: 250px;
+  padding: 50px;
+  text-align: center;
+  background-color: burlywood;
+  
+}
+
+
+.button {
+  border: 1px solid burlywood;
+  border-radius: 15px;
+  padding: 8px;
+  color: white;
+  background-color: black;
+  width: 100px;
+}
+
+.button:hover {
+  background-color: #555;
+}
+
+
+  
+  h2
+  {
+    color: black;
+    text-align: center;
+  }
+  .flip-box {
+    width: 300px;
+    height: 400px;
+    display: inline-block;
+    padding: 160px;
+    
+  }
+
+.flip-box-inner {   
+  height: 100%;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+.flip-box:hover .flip-box-inner {
+  transform: rotateX(180deg);
+}
+
+.flip-box-front1, .flip-box-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+}
+.flip-box-front2, .flip-box-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+}
+.flip-box-front3, .flip-box-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+}
+.flip-box-front4, .flip-box-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+}
+.flip-box-front5, .flip-box-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+}
+.flip-box-front6, .flip-box-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+}
+.flip-box-front7, .flip-box-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+}
+.flip-box-front8, .flip-box-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+}
+
+.flip-box-front1{
+  background-image: url(image/samy2.jpg);
+  color: black;
+}
+.flip-box-front2{
+  background-image: url(image/araby.jpg);
+  color: black;
+}
+.flip-box-front4{
+  background-image: url(image/ragab.jpg);
+  color: black;
+}
+.flip-box-front3{
+  background-image: url(image/heikal.jpg);
+  color: black;
+}
+.flip-box-front5{
+  background-image: url(image/mosaad.jpg);
+  color: black;
+}
+.flip-box-front6{
+  background-image: url(image/medhat.jpg);
+  color: black;
+}
+.flip-box-front7{
+  background-image: url(image/hhhh.jpg);
+  color: black;
+}
+.flip-box-front8{
+  background-image: url(image/kha.jpg);
+  color: black;
+}
+
+.flip-box-back {
+  background-color: #1E1E1E;
+  color: white;
+  transform: rotateX(180deg);
+}
+
+.copy-right h3{ 
+  margin-left: 625px;
+  margin-top: -1px;
+  
+}
+.Design a{
+width: 200px;
+ color:blue;
+float: right;
+}
+.copy-right p{
+  margin-left: 50px;
+  color: red;
+}
+.copy-right{
+  padding: 25px;
+  background: rgb(24, 23, 23);
+  border-top: 3px solid #9999;
+ 
+}
+.social{
+  margin-left: 600px;
+
+}
+
+.social img{
+width: 45px;
+margin: 8px;
+}
+

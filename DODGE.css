@@ -1,0 +1,158 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+    list-style:none;
+}
+nav{
+    background-color: rgb(84, 84, 177);
+    height: 80px;
+    width: 100%;
+
+}
+.logo{
+color: aliceblue;
+font-size: 50px;
+padding-left: 100px;
+font-weight: bold;
+line-height: 80px;
+}
+nav ul{
+    float: right;
+}
+a{
+    color: aliceblue;
+    font-weight: bolder;
+}
+a:hover{
+    font-size: 40px;
+}
+nav ul li{
+    display: inline;
+    line-height: 80px;
+    margin: 0 50px;
+    font-size: 35px;
+}
+.p{
+text-align: center;
+line-height: 150px;
+font-size: 50px;
+color: rgb(27, 27, 34);
+}
+.y{
+    text-align: left;
+    padding-left: 50px;
+    font-size: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(0, 0, 0);
+    line-height: 100px;
+    font-weight: bold;
+}
+.v{
+    text-align: left;
+}
+.v{
+    float: left;
+    padding-left: 100px;
+    line-height: normal;
+    
+}
+.o{
+     line-height: 60px;
+    text-align: center;
+    padding: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+.g{
+    text-align: right;
+    line-height: 30px;
+}
+hr{
+    padding: 50px;
+}
+.p{
+    text-align:left;
+    font-size: 50px;
+    line-height: 55px;
+    padding-left: 50px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    color: rgb(101, 160, 111);
+    font-size: 60px;
+    text-align: left;
+    line-height: 200px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 55px;
+    padding-left: 50px;
+}
+.t{
+    text-align: center;
+    line-height: 55px;
+}
+.rt{
+    text-align: left;
+    padding-left: 50px;
+    font-size: 40px;
+}
+.oppo{
+    text-align: center;
+
+}
+hr{
+    padding: 40px;
+}
+.Cc{
+    text-align: center;
+}
+
+.Xx{
+    text-align:center;
+}
+.copy-right h3{ 
+    color: whitesmoke; 
+    text-align: center;
+    font-size: 35px;
+  }
+  .Design a{
+   color:blue;
+  float: right;
+  padding-right: 100px;
+  font-size: 35px;
+  }
+  .copy-right p{
+      padding-left: 50px;
+    color: red;
+    font-size:35px;
+  }
+  .copy-right{
+    width: 100%;
+    height: 300px;
+    background-color: black;
+  }
+  .social{
+    text-align: center;
+  }
+  
+  .social img{
+  width: 100px;
+  margin: 8px;
+  }
+  .utt{
+      font-size: 35px;
+  }
+.price{
+text-align: center;
+padding-right: 100px;
+  }
+  button{
+      font-size: 35px;
+      width: 150px;
+      height: 60px;
+      background-color: black;
+      color: aliceblue;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-weight: bold;
+  }

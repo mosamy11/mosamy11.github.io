@@ -1,0 +1,150 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+    text-decoration: none;
+    list-style:none;
+}
+body{
+    background-image: url("image/jx.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+} 
+.Gg{
+    width: 100%;
+    height: 40px;
+}
+nav ul li{
+    display: inline-block;
+    margin: 0 50px;
+    padding-right: 30px;
+    padding-top: 10px;
+}
+a{
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: aliceblue;
+}
+a:hover{
+    color: aqua;
+}
+.v,a:active{
+    color: rgb(145, 145, 179);
+}
+.A{
+    line-height: 150px;
+    font-size: 60px;
+    color: aliceblue;
+    text-align: center;
+    font-weight: bold;
+}
+.B{
+    text-align: right;
+    padding-right: 100px;
+    line-height: 77px;
+}
+.C{
+    color: aliceblue;
+    font-size: 40px;
+    text-align: center;
+    padding-left: 40px;
+    line-height: 70px;
+}
+.D{
+    width: 1000px;
+    color: aliceblue;
+}
+.k{
+    font-size: 60px;
+    color: aliceblue;
+    line-height: 200px;
+    padding-left: 100px;
+}
+.bn{
+    text-align: center;
+}
+.dd{
+    line-height: 30px;
+    padding-left: 300px;
+}
+table{
+    width: 90%;
+    height: 400px;
+    border: 5px solid white;
+    border-spacing: 10px;
+}
+table tr{
+    padding: 15px;
+    background-color: rgb(128, 123, 118);
+}
+caption{
+    font-size: 35px;
+    color: aliceblue;
+}
+table tr td{
+    font-size: 35px;
+    color: rgb(247, 247, 248);
+}
+table thead td{
+    background-color: rgb(126, 35, 35);
+}
+hr{
+    padding: 50px;
+}
+iframe{
+    padding-left: 100px;
+}
+.pdf{
+    text-align: center;
+    font-size: 60px;
+    color: aliceblue;
+    line-height: 5px;
+}
+.W{
+    padding-left: 100px;
+}
+button{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 150px;
+    height: 80px;
+}
+.O{
+    color: antiquewhite;
+    font-size: 60px;
+    padding-left: 100px;
+}
+.copy-right h3{ 
+    color: whitesmoke; 
+    text-align: center;
+    font-size: 35px;
+  }
+  .Design a{
+   color:blue;
+  float: right;
+  padding-right: 100px;
+  font-size: 35px;
+  }
+  .copy-right p{
+    padding-left: 50px;
+    color: red;
+    font-size:35px;
+  }
+  .copy-right{
+    width: 100%;
+    height: 300px;
+    background-color: black;
+  }
+  .social{
+    text-align: center;
+  }
+  
+  .social img{
+  width: 100px;
+  margin: 8px;
+  }
+

@@ -1,0 +1,253 @@
+body
+{
+  
+
+  
+  font-family: monospace;
+
+  
+}
+.Alfas {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  width:100%;
+  height:100%;
+}
+
+
+
+table, th, td {
+  border: 1px solid black;
+  text-align: center;
+  table-layout: fixed;
+  width: 80%;
+  margin: auto;
+  font-size: 25px;
+  color: #C1BFBF;
+  font-family:fantasy;
+  background: black;
+}
+
+th, td{
+ padding: 20px;
+}
+
+nav
+
+{
+ 
+position: fixed;
+top:0;
+left: 0;
+width: 100%;
+height: 100px;
+padding: 10px 90px;
+background: rgba(0,0,0,0.5);
+  
+}
+nav img
+{
+ padding:22px 20px;
+ height:100px;
+ float:left;
+ 
+
+ 
+
+ 
+ 
+
+ 
+}
+
+nav ul {
+ list-style: none;
+ float: right;
+ margin: 0;
+ display: flex;
+ 
+ 
+}
+
+nav ul li a {
+ line-height: 80px;
+ color:#fff;
+ padding: 12px 30px;
+ text-transform: uppercase;
+ font-size: 15px;
+ font-weight: bold;
+ 
+}
+
+nav ul li a:hover{
+ background: rgba(132, 0, 0, 0.7);
+ border-radius:99px;
+ 
+}
+
+nav ul li a.active
+{
+ background: rgba(132, 0, 0, 0.7);
+ color: white;
+ border-radius: 99px;
+ 
+ 
+}
+
+ 
+ 
+
+
+.Alfa2
+{
+ color: white;
+}
+.material h1
+{
+ color: white;
+ text-align:center;
+}
+
+
+
+.elfeky
+{
+    position: absolute;
+    top:626%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    width: 1000px;
+    padding: 80px 40px;
+    
+    
+}
+h2
+{
+  margin: 50px;
+  padding: 0 0 20px;
+  color:#C1BFBF;
+  text-align: center;
+  font-family:inherit;
+  font-size: 20px;
+  
+   
+  
+}
+
+
+.elfeky h1
+{
+ color:white;
+ text-align: center ;
+}
+.copy-right h3{ 
+    margin-left: 625px;
+    color: white; 
+}
+.Design a{
+ color:blue;
+float: right; 
+
+}
+.copy-right p{
+    color: red;
+}
+.copy-right{
+    padding: 25px;
+    background: rgb(24, 23, 23);
+    border-top: 3px solid #9999;
+    position: absolute;
+    top:778%;
+    width: 100%;
+}
+.social{
+    
+    margin-left: 600px;
+    }
+.social img{
+width: 45px;
+margin: 8px;
+ }
+
+* {
+box-sizing: border-box;
+}
+
+
+
+.samy {
+  width: 16.66%;
+}
+
+
+
+
+
+
+
+
+.material
+{
+    position: absolute;
+    top:245%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    width: 1000px;
+    height: auto;
+    padding: 20px 40px;
+   
+    
+    
+}
+.material p
+{
+    padding: 0;
+    margin: 0;
+    font-weight: bold;
+    color: white;
+    font-size: 35px;
+    font-style: italic;
+    text-align:center;
+  
+}
+h4{
+  color:white;
+  text-align : center;
+  font-size  :30px;
+}
+h5{
+  color:white;
+  text-align:center;
+  font-size :80px;
+}
+
+
+.vid{
+  width: 100%;
+  height: 50%;
+}
+.me{
+  color: white;
+  font-size: 25px;
+}
+
+
+#ip{
+  background-color: black;
+}
+
+.m{
+  background-color: black;
+}
+
+.mm{
+  background-color: black;
+}
+.me{
+  background-color: black;
+}
+
+h2 , h4{
+  background-color: black;
+}
